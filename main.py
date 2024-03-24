@@ -27,7 +27,7 @@ filt_df = df[~filt]
 world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
 # Create the plot
-fig = px.scatter_geo(city_data, lat='Latitude', lon='Longitude',
+fig = px.scatter_geo(world, lat='Latitude', lon='Longitude',
                      projection='natural earth',
                      color='Count',
                      size='Count',
