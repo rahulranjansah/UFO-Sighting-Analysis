@@ -1,0 +1,12 @@
+geopandas
+matplotlib
+nltk
+stopwords
+word_tokenize
+pandas
+plotly.express
+plotly.io
+re
+seaborn
+Counter
+WordCloud
