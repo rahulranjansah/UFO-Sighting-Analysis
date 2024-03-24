@@ -8,6 +8,9 @@ def raw_data_cleaner(df):
     """
 
     def custom_to_datetime(date):
+        """
+        Datetime series hour, min, sec tool
+        """
         if date[11:13] == "24":
             x = date[:11] + "23:59"
         elif date[10:12] == "24":
