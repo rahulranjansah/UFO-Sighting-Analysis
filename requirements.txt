@@ -1,6 +1,10 @@
+os
+sys
+pathlib
 geopandas
 matplotlib
 nltk
+numpy
 stopwords
 word_tokenize
 pandas
@@ -10,3 +14,4 @@ re
 seaborn
 Counter
 WordCloud
+
