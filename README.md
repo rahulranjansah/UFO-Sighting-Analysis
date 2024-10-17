@@ -1,5 +1,5 @@
 # Introduction
-This is a project made for DataMania 2023, where we worked on with UFO_sightings datasets. We performed Exploratory Data Analysis and deduced some insightful correlations with sightings and distribution of army bases across US. We further peeked into the dataset to perform time series analysis.
+This is a project made for DataMania 2024, where we worked on with UFO_sightings datasets. We performed Exploratory Data Analysis and deduced some insightful correlations with sightings and distribution of army bases across US. We further peeked into the dataset to perform time series analysis.
 
 # UFO Sighting Analytics 🌌
 
